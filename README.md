@@ -24,16 +24,23 @@ Alternatively, you can also download the R Markdown (.Rmd) files and run the cod
 
 This repository contains solutions to the following time series analysis problems from the Forecasting: Principles and Practice textbook:
 
-Chapter 2 – Time series graphics
-Problem 4 (25 points)
+Chapter 2 0Time series graphics
+Problem 4 
+
 Chapter 3 – Time series decomposition
-Problem 7 (25 points)
+Problem 7
+
 Chapter 5 – The forecasters’ toolbox
-Problem 7 (25 points)
-Chapter 8 – Exponential smoothing
-Problem 7 (25 points)
-Chapter 9 – ARIMA models
-Problem 2 (25 points)
-Problem 15 (25 points)
+Problem 7 
+
+Chapter 8 
+# Exponential smoothing
+Problem 7 
+
+Chapter 9 
+# ARIMA models
+Problem 2 
+
+Problem 15 
 
 The solutions are provided in the form of R code knitted as HTML
